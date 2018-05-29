@@ -1,0 +1,33 @@
+/**
+1. What circumstances will lead to increased use of spatial data?
+	People will want to be able to locate certain services that are in their
+	area. For example, travelers will want to know if they are near a gas 
+	station.
+
+3. Using the following map of the Iberian peninsular, populate the spatial database 
+with details of Andorra, Portugal, and Spain. Answer the following questions.
+
+3a. What is the direct distance, or bee line, from Lisbon to Madrid?
+	503.11
+    
+3b. What is the farthest Spanish city from Barcelona?
+	Sevilla
+
+
+3c. Imagine you get lost in Portugal and your geographic positioning system (GPS) 
+indicates that your coordinates are (3,9). What is the nearest city?
+	Braga
+
+3d. Are there any Spanish cities west of Braga? *************************
+	no
+    
+3e. What is the area of Portugal?
+	112500 km^2
+
+3f. What is the southernmost city of Portugal?
+	Lisbon
+
+5. 
+For more precision and to meet universal standards, it would  be better to use
+latitude and longitude to specify points and paths. You should also recognize that 
+Earth is a globe and not flat. How would you enter latitude and longitude in MySQL? **/

@@ -1,0 +1,73 @@
+library(dplyr)
+library(lubridate)
+library(RMySQL)
+library(DBI)
+#connect to a database
+#SQL query in R
+tab <- dbGetQuery(conn, "SELECT * FROM record;")
+#add year column to table 
+tab <- tab %>% mutate(year = year(timestamp)) #using lubridate
+#add month column to table 
+tab <- tab %>% mutate(month = month(timestamp))
+View(tab)
+
+#read in csv
+file <- read.csv("man.csv")
+tbl_df(r)
+
+#question 1
+dim(file)
+#count type of models
+file %>% count(model)
+#count type of sales
+file %>% count(sale)
+#mean price for each model
+file %>% group_by(model) %>% summarize(mean(price))
+#mean price for sale type
+file %>% group_by(sale) %>% summarize(mean(price))
+
+#question 2
+file2 <- read.csv("elec.csv")
+#max cost
+file2 %>% summarize(max(cost))
+#min cost
+file2 %>% summarize(min(cost))
+#mean
+file2 %>% summarize(mean(cost))
+#median
+file2 %>% summarize(median(cost))
+
+#question 3
+weal <- read.csv("wealth.csv")
+#sort by GDP per capita
+weal %>% arrange(GDP.per.capita)
+#average GDP per capita
+weal %>% summarize(mean(GDP.per.capita)
+#ratio of US GDP
+GDP <- weal %>% filter(Country == "United States") %>% select(GDP.per.capita)
+meanGDP <- weal %>% summarize(mean(GDP.per.capita))
+show(GDP/meanGDP)
+#correlation
+x <- weal$GDP.per.capita
+y <- weal$Wealth.per.capita
+cor.test(as.numeric(x),as.numeric(y))
+  
+#question 4
+conn <- dbConnect(RMySQL::MySQL(),"richardtwatson.com",dbname="Weather",user="db2",password="student")
+t <- dbGetQuery(conn, "SELECT * FROM record;")
+merged <- merge(e,t)
+show(merged)
+temp <- merged$airTemp
+cost <- merged$cost
+cor.test(temp,cost)
+
+#question 5
+bank <- read.csv("banklist.csv")
+#banks failed per state
+bank %>% count(ST)
+#banks w/o acquirer
+bank %>% filter(Acquiring.Institution == "No Acquirer") %>% select(Bank.Name)
+#num banks closed each year
+bank$Closing.Date <- format(strptime(n$Closing.Date, format = "%d-%b-%y"), "%d/%m/%Y")
+dates <- as.Date(bank$Closing.Date, '%d/%m/%Y')
+table(format(dates,"%Y"))
