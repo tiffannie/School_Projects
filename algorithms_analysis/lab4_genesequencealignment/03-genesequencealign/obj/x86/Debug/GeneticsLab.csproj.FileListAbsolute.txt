@@ -1,0 +1,9 @@
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\bin\x86\Debug\GeneticsLab.exe
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\bin\x86\Debug\GeneticsLab.pdb
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\GeneticsLab.MainForm.resources
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\GeneticsLab.Properties.Resources.resources
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\GeneticsLab.exe
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\x86\Debug\GeneticsLab.pdb

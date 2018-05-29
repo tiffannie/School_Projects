@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Slide</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="bumbling_oaf">Bumbling Oaf</string>
+    <string name="copy_cat">Copy Cat</string>
+    <string name="winner">We Have A Winner!</string>
+    <string name="player">Player</string>
+    <string name="won">won.</string>
+    <string name="tie">It is a Tie! Want to Play Again?</string>
+    <string name="play_again">Want to Play Again?</string>
+    <string name="about">About</string>
+    <string name="ok">Okay</string>
+    <string name="about_content">This game was created by the students of CS 203 at Brigham Young University Hawaii. The original Slide game was created by Dr. Robert Rossa from Arkansas State University, and published in the August 1984 issue of RUN magazine.</string>
+    <string name="choose_opponent">Choose your Opponent</string>
+    <string name="opponent_select">Opponent Selection!</string>
+    <string name="game_over">Game Over!</string>
+    <string name="to_play">To play, touch one of the buttons next to the grid.</string>
+    <string name="music">Music</string>
+
+</resources>

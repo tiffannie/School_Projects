@@ -1,0 +1,6 @@
+c:\users\tiffannie\documents\visual studio 2017\Projects\ComputationalFinance\ComputationalFinance\bin\Debug\ComputationalFinance.exe.config
+c:\users\tiffannie\documents\visual studio 2017\Projects\ComputationalFinance\ComputationalFinance\bin\Debug\ComputationalFinance.exe
+c:\users\tiffannie\documents\visual studio 2017\Projects\ComputationalFinance\ComputationalFinance\bin\Debug\ComputationalFinance.pdb
+c:\users\tiffannie\documents\visual studio 2017\Projects\ComputationalFinance\ComputationalFinance\obj\Debug\ComputationalFinance.csprojResolveAssemblyReference.cache
+c:\users\tiffannie\documents\visual studio 2017\Projects\ComputationalFinance\ComputationalFinance\obj\Debug\ComputationalFinance.exe
+c:\users\tiffannie\documents\visual studio 2017\Projects\ComputationalFinance\ComputationalFinance\obj\Debug\ComputationalFinance.pdb

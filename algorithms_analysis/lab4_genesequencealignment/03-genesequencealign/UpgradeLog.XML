@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GeneticsLab">
+</Property><Property Name="Solution File" Value="C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\GeneticsLab.sln">
+</Property><Property Name="Date" Value="Thursday, November 04, 2010">
+</Property><Property Name="Time" Value="12:04:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="GeneticsLab" Source="GeneticsLab.csproj" Description="Project file successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\GeneticsLab.csproj">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="GeneticsLab.csproj.user" Description="Project user file successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\GeneticsLab.csproj.user">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="DatabaseController.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\DatabaseController.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="GeneSequence.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\GeneSequence.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="MainForm.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="MainForm.Designer.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="PairWiseAlign.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\PairWiseAlign.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="Program.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="ResultTable.cs" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\ResultTable.cs">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="MainForm.resx" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="GeneticsLab.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeneticsLab" Source="GeneticsLab.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeneticsLab" Source="GeneticsLab.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

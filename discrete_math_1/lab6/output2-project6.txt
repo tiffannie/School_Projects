@@ -1,0 +1,842 @@
+white rice, venison meat, scrambled eggs, brown gravy.
+white rice, venison meat, scrambled eggs, country gravy.
+white rice, venison meat, scrambled eggs, sausage gravy.
+white rice, venison meat, scrambled eggs, turkey giblet gravy.
+white rice, venison meat, over easy eggs, brown gravy.
+white rice, venison meat, over easy eggs, country gravy.
+white rice, venison meat, over easy eggs, sausage gravy.
+white rice, venison meat, over easy eggs, turkey giblet gravy.
+white rice, venison meat, over hard eggs, brown gravy.
+white rice, venison meat, over hard eggs, country gravy.
+white rice, venison meat, over hard eggs, sausage gravy.
+white rice, venison meat, over hard eggs, turkey giblet gravy.
+white rice, venison meat, poached eggs, brown gravy.
+white rice, venison meat, poached eggs, country gravy.
+white rice, venison meat, poached eggs, sausage gravy.
+white rice, venison meat, poached eggs, turkey giblet gravy.
+white rice, venison meat, hard-boiled eggs, brown gravy.
+white rice, venison meat, hard-boiled eggs, country gravy.
+white rice, venison meat, hard-boiled eggs, sausage gravy.
+white rice, venison meat, hard-boiled eggs, turkey giblet gravy.
+white rice, venison meat, raw eggs, brown gravy.
+white rice, venison meat, raw eggs, country gravy.
+white rice, venison meat, raw eggs, sausage gravy.
+white rice, venison meat, raw eggs, turkey giblet gravy.
+white rice, venison meat, deep-fried eggs, brown gravy.
+white rice, venison meat, deep-fried eggs, country gravy.
+white rice, venison meat, deep-fried eggs, sausage gravy.
+white rice, venison meat, deep-fried eggs, turkey giblet gravy.
+white rice, veal meat, scrambled eggs, brown gravy.
+white rice, veal meat, scrambled eggs, country gravy.
+white rice, veal meat, scrambled eggs, sausage gravy.
+white rice, veal meat, scrambled eggs, turkey giblet gravy.
+white rice, veal meat, over easy eggs, brown gravy.
+white rice, veal meat, over easy eggs, country gravy.
+white rice, veal meat, over easy eggs, sausage gravy.
+white rice, veal meat, over easy eggs, turkey giblet gravy.
+white rice, veal meat, over hard eggs, brown gravy.
+white rice, veal meat, over hard eggs, country gravy.
+white rice, veal meat, over hard eggs, sausage gravy.
+white rice, veal meat, over hard eggs, turkey giblet gravy.
+white rice, veal meat, poached eggs, brown gravy.
+white rice, veal meat, poached eggs, country gravy.
+white rice, veal meat, poached eggs, sausage gravy.
+white rice, veal meat, poached eggs, turkey giblet gravy.
+white rice, veal meat, hard-boiled eggs, brown gravy.
+white rice, veal meat, hard-boiled eggs, country gravy.
+white rice, veal meat, hard-boiled eggs, sausage gravy.
+white rice, veal meat, hard-boiled eggs, turkey giblet gravy.
+white rice, veal meat, raw eggs, brown gravy.
+white rice, veal meat, raw eggs, country gravy.
+white rice, veal meat, raw eggs, sausage gravy.
+white rice, veal meat, raw eggs, turkey giblet gravy.
+white rice, veal meat, deep-fried eggs, brown gravy.
+white rice, veal meat, deep-fried eggs, country gravy.
+white rice, veal meat, deep-fried eggs, sausage gravy.
+white rice, veal meat, deep-fried eggs, turkey giblet gravy.
+white rice, elk meat, scrambled eggs, brown gravy.
+white rice, elk meat, scrambled eggs, country gravy.
+white rice, elk meat, scrambled eggs, sausage gravy.
+white rice, elk meat, scrambled eggs, turkey giblet gravy.
+white rice, elk meat, over easy eggs, brown gravy.
+white rice, elk meat, over easy eggs, country gravy.
+white rice, elk meat, over easy eggs, sausage gravy.
+white rice, elk meat, over easy eggs, turkey giblet gravy.
+white rice, elk meat, over hard eggs, brown gravy.
+white rice, elk meat, over hard eggs, country gravy.
+white rice, elk meat, over hard eggs, sausage gravy.
+white rice, elk meat, over hard eggs, turkey giblet gravy.
+white rice, elk meat, poached eggs, brown gravy.
+white rice, elk meat, poached eggs, country gravy.
+white rice, elk meat, poached eggs, sausage gravy.
+white rice, elk meat, poached eggs, turkey giblet gravy.
+white rice, elk meat, hard-boiled eggs, brown gravy.
+white rice, elk meat, hard-boiled eggs, country gravy.
+white rice, elk meat, hard-boiled eggs, sausage gravy.
+white rice, elk meat, hard-boiled eggs, turkey giblet gravy.
+white rice, elk meat, raw eggs, brown gravy.
+white rice, elk meat, raw eggs, country gravy.
+white rice, elk meat, raw eggs, sausage gravy.
+white rice, elk meat, raw eggs, turkey giblet gravy.
+white rice, elk meat, deep-fried eggs, brown gravy.
+white rice, elk meat, deep-fried eggs, country gravy.
+white rice, elk meat, deep-fried eggs, sausage gravy.
+white rice, elk meat, deep-fried eggs, turkey giblet gravy.
+white rice, buffalo meat, scrambled eggs, brown gravy.
+white rice, buffalo meat, scrambled eggs, country gravy.
+white rice, buffalo meat, scrambled eggs, sausage gravy.
+white rice, buffalo meat, scrambled eggs, turkey giblet gravy.
+white rice, buffalo meat, over easy eggs, brown gravy.
+white rice, buffalo meat, over easy eggs, country gravy.
+white rice, buffalo meat, over easy eggs, sausage gravy.
+white rice, buffalo meat, over easy eggs, turkey giblet gravy.
+white rice, buffalo meat, over hard eggs, brown gravy.
+white rice, buffalo meat, over hard eggs, country gravy.
+white rice, buffalo meat, over hard eggs, sausage gravy.
+white rice, buffalo meat, over hard eggs, turkey giblet gravy.
+white rice, buffalo meat, poached eggs, brown gravy.
+white rice, buffalo meat, poached eggs, country gravy.
+white rice, buffalo meat, poached eggs, sausage gravy.
+white rice, buffalo meat, poached eggs, turkey giblet gravy.
+white rice, buffalo meat, hard-boiled eggs, brown gravy.
+white rice, buffalo meat, hard-boiled eggs, country gravy.
+white rice, buffalo meat, hard-boiled eggs, sausage gravy.
+white rice, buffalo meat, hard-boiled eggs, turkey giblet gravy.
+white rice, buffalo meat, raw eggs, brown gravy.
+white rice, buffalo meat, raw eggs, country gravy.
+white rice, buffalo meat, raw eggs, sausage gravy.
+white rice, buffalo meat, raw eggs, turkey giblet gravy.
+white rice, buffalo meat, deep-fried eggs, brown gravy.
+white rice, buffalo meat, deep-fried eggs, country gravy.
+white rice, buffalo meat, deep-fried eggs, sausage gravy.
+white rice, buffalo meat, deep-fried eggs, turkey giblet gravy.
+white rice, frogleg meat, scrambled eggs, brown gravy.
+white rice, frogleg meat, scrambled eggs, country gravy.
+white rice, frogleg meat, scrambled eggs, sausage gravy.
+white rice, frogleg meat, scrambled eggs, turkey giblet gravy.
+white rice, frogleg meat, over easy eggs, brown gravy.
+white rice, frogleg meat, over easy eggs, country gravy.
+white rice, frogleg meat, over easy eggs, sausage gravy.
+white rice, frogleg meat, over easy eggs, turkey giblet gravy.
+white rice, frogleg meat, over hard eggs, brown gravy.
+white rice, frogleg meat, over hard eggs, country gravy.
+white rice, frogleg meat, over hard eggs, sausage gravy.
+white rice, frogleg meat, over hard eggs, turkey giblet gravy.
+white rice, frogleg meat, poached eggs, brown gravy.
+white rice, frogleg meat, poached eggs, country gravy.
+white rice, frogleg meat, poached eggs, sausage gravy.
+white rice, frogleg meat, poached eggs, turkey giblet gravy.
+white rice, frogleg meat, hard-boiled eggs, brown gravy.
+white rice, frogleg meat, hard-boiled eggs, country gravy.
+white rice, frogleg meat, hard-boiled eggs, sausage gravy.
+white rice, frogleg meat, hard-boiled eggs, turkey giblet gravy.
+white rice, frogleg meat, raw eggs, brown gravy.
+white rice, frogleg meat, raw eggs, country gravy.
+white rice, frogleg meat, raw eggs, sausage gravy.
+white rice, frogleg meat, raw eggs, turkey giblet gravy.
+white rice, frogleg meat, deep-fried eggs, brown gravy.
+white rice, frogleg meat, deep-fried eggs, country gravy.
+white rice, frogleg meat, deep-fried eggs, sausage gravy.
+white rice, frogleg meat, deep-fried eggs, turkey giblet gravy.
+brown rice, venison meat, scrambled eggs, brown gravy.
+brown rice, venison meat, scrambled eggs, country gravy.
+brown rice, venison meat, scrambled eggs, sausage gravy.
+brown rice, venison meat, scrambled eggs, turkey giblet gravy.
+brown rice, venison meat, over easy eggs, brown gravy.
+brown rice, venison meat, over easy eggs, country gravy.
+brown rice, venison meat, over easy eggs, sausage gravy.
+brown rice, venison meat, over easy eggs, turkey giblet gravy.
+brown rice, venison meat, over hard eggs, brown gravy.
+brown rice, venison meat, over hard eggs, country gravy.
+brown rice, venison meat, over hard eggs, sausage gravy.
+brown rice, venison meat, over hard eggs, turkey giblet gravy.
+brown rice, venison meat, poached eggs, brown gravy.
+brown rice, venison meat, poached eggs, country gravy.
+brown rice, venison meat, poached eggs, sausage gravy.
+brown rice, venison meat, poached eggs, turkey giblet gravy.
+brown rice, venison meat, hard-boiled eggs, brown gravy.
+brown rice, venison meat, hard-boiled eggs, country gravy.
+brown rice, venison meat, hard-boiled eggs, sausage gravy.
+brown rice, venison meat, hard-boiled eggs, turkey giblet gravy.
+brown rice, venison meat, raw eggs, brown gravy.
+brown rice, venison meat, raw eggs, country gravy.
+brown rice, venison meat, raw eggs, sausage gravy.
+brown rice, venison meat, raw eggs, turkey giblet gravy.
+brown rice, venison meat, deep-fried eggs, brown gravy.
+brown rice, venison meat, deep-fried eggs, country gravy.
+brown rice, venison meat, deep-fried eggs, sausage gravy.
+brown rice, venison meat, deep-fried eggs, turkey giblet gravy.
+brown rice, veal meat, scrambled eggs, brown gravy.
+brown rice, veal meat, scrambled eggs, country gravy.
+brown rice, veal meat, scrambled eggs, sausage gravy.
+brown rice, veal meat, scrambled eggs, turkey giblet gravy.
+brown rice, veal meat, over easy eggs, brown gravy.
+brown rice, veal meat, over easy eggs, country gravy.
+brown rice, veal meat, over easy eggs, sausage gravy.
+brown rice, veal meat, over easy eggs, turkey giblet gravy.
+brown rice, veal meat, over hard eggs, brown gravy.
+brown rice, veal meat, over hard eggs, country gravy.
+brown rice, veal meat, over hard eggs, sausage gravy.
+brown rice, veal meat, over hard eggs, turkey giblet gravy.
+brown rice, veal meat, poached eggs, brown gravy.
+brown rice, veal meat, poached eggs, country gravy.
+brown rice, veal meat, poached eggs, sausage gravy.
+brown rice, veal meat, poached eggs, turkey giblet gravy.
+brown rice, veal meat, hard-boiled eggs, brown gravy.
+brown rice, veal meat, hard-boiled eggs, country gravy.
+brown rice, veal meat, hard-boiled eggs, sausage gravy.
+brown rice, veal meat, hard-boiled eggs, turkey giblet gravy.
+brown rice, veal meat, raw eggs, brown gravy.
+brown rice, veal meat, raw eggs, country gravy.
+brown rice, veal meat, raw eggs, sausage gravy.
+brown rice, veal meat, raw eggs, turkey giblet gravy.
+brown rice, veal meat, deep-fried eggs, brown gravy.
+brown rice, veal meat, deep-fried eggs, country gravy.
+brown rice, veal meat, deep-fried eggs, sausage gravy.
+brown rice, veal meat, deep-fried eggs, turkey giblet gravy.
+brown rice, elk meat, scrambled eggs, brown gravy.
+brown rice, elk meat, scrambled eggs, country gravy.
+brown rice, elk meat, scrambled eggs, sausage gravy.
+brown rice, elk meat, scrambled eggs, turkey giblet gravy.
+brown rice, elk meat, over easy eggs, brown gravy.
+brown rice, elk meat, over easy eggs, country gravy.
+brown rice, elk meat, over easy eggs, sausage gravy.
+brown rice, elk meat, over easy eggs, turkey giblet gravy.
+brown rice, elk meat, over hard eggs, brown gravy.
+brown rice, elk meat, over hard eggs, country gravy.
+brown rice, elk meat, over hard eggs, sausage gravy.
+brown rice, elk meat, over hard eggs, turkey giblet gravy.
+brown rice, elk meat, poached eggs, brown gravy.
+brown rice, elk meat, poached eggs, country gravy.
+brown rice, elk meat, poached eggs, sausage gravy.
+brown rice, elk meat, poached eggs, turkey giblet gravy.
+brown rice, elk meat, hard-boiled eggs, brown gravy.
+brown rice, elk meat, hard-boiled eggs, country gravy.
+brown rice, elk meat, hard-boiled eggs, sausage gravy.
+brown rice, elk meat, hard-boiled eggs, turkey giblet gravy.
+brown rice, elk meat, raw eggs, brown gravy.
+brown rice, elk meat, raw eggs, country gravy.
+brown rice, elk meat, raw eggs, sausage gravy.
+brown rice, elk meat, raw eggs, turkey giblet gravy.
+brown rice, elk meat, deep-fried eggs, brown gravy.
+brown rice, elk meat, deep-fried eggs, country gravy.
+brown rice, elk meat, deep-fried eggs, sausage gravy.
+brown rice, elk meat, deep-fried eggs, turkey giblet gravy.
+brown rice, buffalo meat, scrambled eggs, brown gravy.
+brown rice, buffalo meat, scrambled eggs, country gravy.
+brown rice, buffalo meat, scrambled eggs, sausage gravy.
+brown rice, buffalo meat, scrambled eggs, turkey giblet gravy.
+brown rice, buffalo meat, over easy eggs, brown gravy.
+brown rice, buffalo meat, over easy eggs, country gravy.
+brown rice, buffalo meat, over easy eggs, sausage gravy.
+brown rice, buffalo meat, over easy eggs, turkey giblet gravy.
+brown rice, buffalo meat, over hard eggs, brown gravy.
+brown rice, buffalo meat, over hard eggs, country gravy.
+brown rice, buffalo meat, over hard eggs, sausage gravy.
+brown rice, buffalo meat, over hard eggs, turkey giblet gravy.
+brown rice, buffalo meat, poached eggs, brown gravy.
+brown rice, buffalo meat, poached eggs, country gravy.
+brown rice, buffalo meat, poached eggs, sausage gravy.
+brown rice, buffalo meat, poached eggs, turkey giblet gravy.
+brown rice, buffalo meat, hard-boiled eggs, brown gravy.
+brown rice, buffalo meat, hard-boiled eggs, country gravy.
+brown rice, buffalo meat, hard-boiled eggs, sausage gravy.
+brown rice, buffalo meat, hard-boiled eggs, turkey giblet gravy.
+brown rice, buffalo meat, raw eggs, brown gravy.
+brown rice, buffalo meat, raw eggs, country gravy.
+brown rice, buffalo meat, raw eggs, sausage gravy.
+brown rice, buffalo meat, raw eggs, turkey giblet gravy.
+brown rice, buffalo meat, deep-fried eggs, brown gravy.
+brown rice, buffalo meat, deep-fried eggs, country gravy.
+brown rice, buffalo meat, deep-fried eggs, sausage gravy.
+brown rice, buffalo meat, deep-fried eggs, turkey giblet gravy.
+brown rice, frogleg meat, scrambled eggs, brown gravy.
+brown rice, frogleg meat, scrambled eggs, country gravy.
+brown rice, frogleg meat, scrambled eggs, sausage gravy.
+brown rice, frogleg meat, scrambled eggs, turkey giblet gravy.
+brown rice, frogleg meat, over easy eggs, brown gravy.
+brown rice, frogleg meat, over easy eggs, country gravy.
+brown rice, frogleg meat, over easy eggs, sausage gravy.
+brown rice, frogleg meat, over easy eggs, turkey giblet gravy.
+brown rice, frogleg meat, over hard eggs, brown gravy.
+brown rice, frogleg meat, over hard eggs, country gravy.
+brown rice, frogleg meat, over hard eggs, sausage gravy.
+brown rice, frogleg meat, over hard eggs, turkey giblet gravy.
+brown rice, frogleg meat, poached eggs, brown gravy.
+brown rice, frogleg meat, poached eggs, country gravy.
+brown rice, frogleg meat, poached eggs, sausage gravy.
+brown rice, frogleg meat, poached eggs, turkey giblet gravy.
+brown rice, frogleg meat, hard-boiled eggs, brown gravy.
+brown rice, frogleg meat, hard-boiled eggs, country gravy.
+brown rice, frogleg meat, hard-boiled eggs, sausage gravy.
+brown rice, frogleg meat, hard-boiled eggs, turkey giblet gravy.
+brown rice, frogleg meat, raw eggs, brown gravy.
+brown rice, frogleg meat, raw eggs, country gravy.
+brown rice, frogleg meat, raw eggs, sausage gravy.
+brown rice, frogleg meat, raw eggs, turkey giblet gravy.
+brown rice, frogleg meat, deep-fried eggs, brown gravy.
+brown rice, frogleg meat, deep-fried eggs, country gravy.
+brown rice, frogleg meat, deep-fried eggs, sausage gravy.
+brown rice, frogleg meat, deep-fried eggs, turkey giblet gravy.
+jasmine rice, venison meat, scrambled eggs, brown gravy.
+jasmine rice, venison meat, scrambled eggs, country gravy.
+jasmine rice, venison meat, scrambled eggs, sausage gravy.
+jasmine rice, venison meat, scrambled eggs, turkey giblet gravy.
+jasmine rice, venison meat, over easy eggs, brown gravy.
+jasmine rice, venison meat, over easy eggs, country gravy.
+jasmine rice, venison meat, over easy eggs, sausage gravy.
+jasmine rice, venison meat, over easy eggs, turkey giblet gravy.
+jasmine rice, venison meat, over hard eggs, brown gravy.
+jasmine rice, venison meat, over hard eggs, country gravy.
+jasmine rice, venison meat, over hard eggs, sausage gravy.
+jasmine rice, venison meat, over hard eggs, turkey giblet gravy.
+jasmine rice, venison meat, poached eggs, brown gravy.
+jasmine rice, venison meat, poached eggs, country gravy.
+jasmine rice, venison meat, poached eggs, sausage gravy.
+jasmine rice, venison meat, poached eggs, turkey giblet gravy.
+jasmine rice, venison meat, hard-boiled eggs, brown gravy.
+jasmine rice, venison meat, hard-boiled eggs, country gravy.
+jasmine rice, venison meat, hard-boiled eggs, sausage gravy.
+jasmine rice, venison meat, hard-boiled eggs, turkey giblet gravy.
+jasmine rice, venison meat, raw eggs, brown gravy.
+jasmine rice, venison meat, raw eggs, country gravy.
+jasmine rice, venison meat, raw eggs, sausage gravy.
+jasmine rice, venison meat, raw eggs, turkey giblet gravy.
+jasmine rice, venison meat, deep-fried eggs, brown gravy.
+jasmine rice, venison meat, deep-fried eggs, country gravy.
+jasmine rice, venison meat, deep-fried eggs, sausage gravy.
+jasmine rice, venison meat, deep-fried eggs, turkey giblet gravy.
+jasmine rice, veal meat, scrambled eggs, brown gravy.
+jasmine rice, veal meat, scrambled eggs, country gravy.
+jasmine rice, veal meat, scrambled eggs, sausage gravy.
+jasmine rice, veal meat, scrambled eggs, turkey giblet gravy.
+jasmine rice, veal meat, over easy eggs, brown gravy.
+jasmine rice, veal meat, over easy eggs, country gravy.
+jasmine rice, veal meat, over easy eggs, sausage gravy.
+jasmine rice, veal meat, over easy eggs, turkey giblet gravy.
+jasmine rice, veal meat, over hard eggs, brown gravy.
+jasmine rice, veal meat, over hard eggs, country gravy.
+jasmine rice, veal meat, over hard eggs, sausage gravy.
+jasmine rice, veal meat, over hard eggs, turkey giblet gravy.
+jasmine rice, veal meat, poached eggs, brown gravy.
+jasmine rice, veal meat, poached eggs, country gravy.
+jasmine rice, veal meat, poached eggs, sausage gravy.
+jasmine rice, veal meat, poached eggs, turkey giblet gravy.
+jasmine rice, veal meat, hard-boiled eggs, brown gravy.
+jasmine rice, veal meat, hard-boiled eggs, country gravy.
+jasmine rice, veal meat, hard-boiled eggs, sausage gravy.
+jasmine rice, veal meat, hard-boiled eggs, turkey giblet gravy.
+jasmine rice, veal meat, raw eggs, brown gravy.
+jasmine rice, veal meat, raw eggs, country gravy.
+jasmine rice, veal meat, raw eggs, sausage gravy.
+jasmine rice, veal meat, raw eggs, turkey giblet gravy.
+jasmine rice, veal meat, deep-fried eggs, brown gravy.
+jasmine rice, veal meat, deep-fried eggs, country gravy.
+jasmine rice, veal meat, deep-fried eggs, sausage gravy.
+jasmine rice, veal meat, deep-fried eggs, turkey giblet gravy.
+jasmine rice, elk meat, scrambled eggs, brown gravy.
+jasmine rice, elk meat, scrambled eggs, country gravy.
+jasmine rice, elk meat, scrambled eggs, sausage gravy.
+jasmine rice, elk meat, scrambled eggs, turkey giblet gravy.
+jasmine rice, elk meat, over easy eggs, brown gravy.
+jasmine rice, elk meat, over easy eggs, country gravy.
+jasmine rice, elk meat, over easy eggs, sausage gravy.
+jasmine rice, elk meat, over easy eggs, turkey giblet gravy.
+jasmine rice, elk meat, over hard eggs, brown gravy.
+jasmine rice, elk meat, over hard eggs, country gravy.
+jasmine rice, elk meat, over hard eggs, sausage gravy.
+jasmine rice, elk meat, over hard eggs, turkey giblet gravy.
+jasmine rice, elk meat, poached eggs, brown gravy.
+jasmine rice, elk meat, poached eggs, country gravy.
+jasmine rice, elk meat, poached eggs, sausage gravy.
+jasmine rice, elk meat, poached eggs, turkey giblet gravy.
+jasmine rice, elk meat, hard-boiled eggs, brown gravy.
+jasmine rice, elk meat, hard-boiled eggs, country gravy.
+jasmine rice, elk meat, hard-boiled eggs, sausage gravy.
+jasmine rice, elk meat, hard-boiled eggs, turkey giblet gravy.
+jasmine rice, elk meat, raw eggs, brown gravy.
+jasmine rice, elk meat, raw eggs, country gravy.
+jasmine rice, elk meat, raw eggs, sausage gravy.
+jasmine rice, elk meat, raw eggs, turkey giblet gravy.
+jasmine rice, elk meat, deep-fried eggs, brown gravy.
+jasmine rice, elk meat, deep-fried eggs, country gravy.
+jasmine rice, elk meat, deep-fried eggs, sausage gravy.
+jasmine rice, elk meat, deep-fried eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, scrambled eggs, brown gravy.
+jasmine rice, buffalo meat, scrambled eggs, country gravy.
+jasmine rice, buffalo meat, scrambled eggs, sausage gravy.
+jasmine rice, buffalo meat, scrambled eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, over easy eggs, brown gravy.
+jasmine rice, buffalo meat, over easy eggs, country gravy.
+jasmine rice, buffalo meat, over easy eggs, sausage gravy.
+jasmine rice, buffalo meat, over easy eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, over hard eggs, brown gravy.
+jasmine rice, buffalo meat, over hard eggs, country gravy.
+jasmine rice, buffalo meat, over hard eggs, sausage gravy.
+jasmine rice, buffalo meat, over hard eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, poached eggs, brown gravy.
+jasmine rice, buffalo meat, poached eggs, country gravy.
+jasmine rice, buffalo meat, poached eggs, sausage gravy.
+jasmine rice, buffalo meat, poached eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, hard-boiled eggs, brown gravy.
+jasmine rice, buffalo meat, hard-boiled eggs, country gravy.
+jasmine rice, buffalo meat, hard-boiled eggs, sausage gravy.
+jasmine rice, buffalo meat, hard-boiled eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, raw eggs, brown gravy.
+jasmine rice, buffalo meat, raw eggs, country gravy.
+jasmine rice, buffalo meat, raw eggs, sausage gravy.
+jasmine rice, buffalo meat, raw eggs, turkey giblet gravy.
+jasmine rice, buffalo meat, deep-fried eggs, brown gravy.
+jasmine rice, buffalo meat, deep-fried eggs, country gravy.
+jasmine rice, buffalo meat, deep-fried eggs, sausage gravy.
+jasmine rice, buffalo meat, deep-fried eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, scrambled eggs, brown gravy.
+jasmine rice, frogleg meat, scrambled eggs, country gravy.
+jasmine rice, frogleg meat, scrambled eggs, sausage gravy.
+jasmine rice, frogleg meat, scrambled eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, over easy eggs, brown gravy.
+jasmine rice, frogleg meat, over easy eggs, country gravy.
+jasmine rice, frogleg meat, over easy eggs, sausage gravy.
+jasmine rice, frogleg meat, over easy eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, over hard eggs, brown gravy.
+jasmine rice, frogleg meat, over hard eggs, country gravy.
+jasmine rice, frogleg meat, over hard eggs, sausage gravy.
+jasmine rice, frogleg meat, over hard eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, poached eggs, brown gravy.
+jasmine rice, frogleg meat, poached eggs, country gravy.
+jasmine rice, frogleg meat, poached eggs, sausage gravy.
+jasmine rice, frogleg meat, poached eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, hard-boiled eggs, brown gravy.
+jasmine rice, frogleg meat, hard-boiled eggs, country gravy.
+jasmine rice, frogleg meat, hard-boiled eggs, sausage gravy.
+jasmine rice, frogleg meat, hard-boiled eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, raw eggs, brown gravy.
+jasmine rice, frogleg meat, raw eggs, country gravy.
+jasmine rice, frogleg meat, raw eggs, sausage gravy.
+jasmine rice, frogleg meat, raw eggs, turkey giblet gravy.
+jasmine rice, frogleg meat, deep-fried eggs, brown gravy.
+jasmine rice, frogleg meat, deep-fried eggs, country gravy.
+jasmine rice, frogleg meat, deep-fried eggs, sausage gravy.
+jasmine rice, frogleg meat, deep-fried eggs, turkey giblet gravy.
+minute rice, venison meat, scrambled eggs, brown gravy.
+minute rice, venison meat, scrambled eggs, country gravy.
+minute rice, venison meat, scrambled eggs, sausage gravy.
+minute rice, venison meat, scrambled eggs, turkey giblet gravy.
+minute rice, venison meat, over easy eggs, brown gravy.
+minute rice, venison meat, over easy eggs, country gravy.
+minute rice, venison meat, over easy eggs, sausage gravy.
+minute rice, venison meat, over easy eggs, turkey giblet gravy.
+minute rice, venison meat, over hard eggs, brown gravy.
+minute rice, venison meat, over hard eggs, country gravy.
+minute rice, venison meat, over hard eggs, sausage gravy.
+minute rice, venison meat, over hard eggs, turkey giblet gravy.
+minute rice, venison meat, poached eggs, brown gravy.
+minute rice, venison meat, poached eggs, country gravy.
+minute rice, venison meat, poached eggs, sausage gravy.
+minute rice, venison meat, poached eggs, turkey giblet gravy.
+minute rice, venison meat, hard-boiled eggs, brown gravy.
+minute rice, venison meat, hard-boiled eggs, country gravy.
+minute rice, venison meat, hard-boiled eggs, sausage gravy.
+minute rice, venison meat, hard-boiled eggs, turkey giblet gravy.
+minute rice, venison meat, raw eggs, brown gravy.
+minute rice, venison meat, raw eggs, country gravy.
+minute rice, venison meat, raw eggs, sausage gravy.
+minute rice, venison meat, raw eggs, turkey giblet gravy.
+minute rice, venison meat, deep-fried eggs, brown gravy.
+minute rice, venison meat, deep-fried eggs, country gravy.
+minute rice, venison meat, deep-fried eggs, sausage gravy.
+minute rice, venison meat, deep-fried eggs, turkey giblet gravy.
+minute rice, veal meat, scrambled eggs, brown gravy.
+minute rice, veal meat, scrambled eggs, country gravy.
+minute rice, veal meat, scrambled eggs, sausage gravy.
+minute rice, veal meat, scrambled eggs, turkey giblet gravy.
+minute rice, veal meat, over easy eggs, brown gravy.
+minute rice, veal meat, over easy eggs, country gravy.
+minute rice, veal meat, over easy eggs, sausage gravy.
+minute rice, veal meat, over easy eggs, turkey giblet gravy.
+minute rice, veal meat, over hard eggs, brown gravy.
+minute rice, veal meat, over hard eggs, country gravy.
+minute rice, veal meat, over hard eggs, sausage gravy.
+minute rice, veal meat, over hard eggs, turkey giblet gravy.
+minute rice, veal meat, poached eggs, brown gravy.
+minute rice, veal meat, poached eggs, country gravy.
+minute rice, veal meat, poached eggs, sausage gravy.
+minute rice, veal meat, poached eggs, turkey giblet gravy.
+minute rice, veal meat, hard-boiled eggs, brown gravy.
+minute rice, veal meat, hard-boiled eggs, country gravy.
+minute rice, veal meat, hard-boiled eggs, sausage gravy.
+minute rice, veal meat, hard-boiled eggs, turkey giblet gravy.
+minute rice, veal meat, raw eggs, brown gravy.
+minute rice, veal meat, raw eggs, country gravy.
+minute rice, veal meat, raw eggs, sausage gravy.
+minute rice, veal meat, raw eggs, turkey giblet gravy.
+minute rice, veal meat, deep-fried eggs, brown gravy.
+minute rice, veal meat, deep-fried eggs, country gravy.
+minute rice, veal meat, deep-fried eggs, sausage gravy.
+minute rice, veal meat, deep-fried eggs, turkey giblet gravy.
+minute rice, elk meat, scrambled eggs, brown gravy.
+minute rice, elk meat, scrambled eggs, country gravy.
+minute rice, elk meat, scrambled eggs, sausage gravy.
+minute rice, elk meat, scrambled eggs, turkey giblet gravy.
+minute rice, elk meat, over easy eggs, brown gravy.
+minute rice, elk meat, over easy eggs, country gravy.
+minute rice, elk meat, over easy eggs, sausage gravy.
+minute rice, elk meat, over easy eggs, turkey giblet gravy.
+minute rice, elk meat, over hard eggs, brown gravy.
+minute rice, elk meat, over hard eggs, country gravy.
+minute rice, elk meat, over hard eggs, sausage gravy.
+minute rice, elk meat, over hard eggs, turkey giblet gravy.
+minute rice, elk meat, poached eggs, brown gravy.
+minute rice, elk meat, poached eggs, country gravy.
+minute rice, elk meat, poached eggs, sausage gravy.
+minute rice, elk meat, poached eggs, turkey giblet gravy.
+minute rice, elk meat, hard-boiled eggs, brown gravy.
+minute rice, elk meat, hard-boiled eggs, country gravy.
+minute rice, elk meat, hard-boiled eggs, sausage gravy.
+minute rice, elk meat, hard-boiled eggs, turkey giblet gravy.
+minute rice, elk meat, raw eggs, brown gravy.
+minute rice, elk meat, raw eggs, country gravy.
+minute rice, elk meat, raw eggs, sausage gravy.
+minute rice, elk meat, raw eggs, turkey giblet gravy.
+minute rice, elk meat, deep-fried eggs, brown gravy.
+minute rice, elk meat, deep-fried eggs, country gravy.
+minute rice, elk meat, deep-fried eggs, sausage gravy.
+minute rice, elk meat, deep-fried eggs, turkey giblet gravy.
+minute rice, buffalo meat, scrambled eggs, brown gravy.
+minute rice, buffalo meat, scrambled eggs, country gravy.
+minute rice, buffalo meat, scrambled eggs, sausage gravy.
+minute rice, buffalo meat, scrambled eggs, turkey giblet gravy.
+minute rice, buffalo meat, over easy eggs, brown gravy.
+minute rice, buffalo meat, over easy eggs, country gravy.
+minute rice, buffalo meat, over easy eggs, sausage gravy.
+minute rice, buffalo meat, over easy eggs, turkey giblet gravy.
+minute rice, buffalo meat, over hard eggs, brown gravy.
+minute rice, buffalo meat, over hard eggs, country gravy.
+minute rice, buffalo meat, over hard eggs, sausage gravy.
+minute rice, buffalo meat, over hard eggs, turkey giblet gravy.
+minute rice, buffalo meat, poached eggs, brown gravy.
+minute rice, buffalo meat, poached eggs, country gravy.
+minute rice, buffalo meat, poached eggs, sausage gravy.
+minute rice, buffalo meat, poached eggs, turkey giblet gravy.
+minute rice, buffalo meat, hard-boiled eggs, brown gravy.
+minute rice, buffalo meat, hard-boiled eggs, country gravy.
+minute rice, buffalo meat, hard-boiled eggs, sausage gravy.
+minute rice, buffalo meat, hard-boiled eggs, turkey giblet gravy.
+minute rice, buffalo meat, raw eggs, brown gravy.
+minute rice, buffalo meat, raw eggs, country gravy.
+minute rice, buffalo meat, raw eggs, sausage gravy.
+minute rice, buffalo meat, raw eggs, turkey giblet gravy.
+minute rice, buffalo meat, deep-fried eggs, brown gravy.
+minute rice, buffalo meat, deep-fried eggs, country gravy.
+minute rice, buffalo meat, deep-fried eggs, sausage gravy.
+minute rice, buffalo meat, deep-fried eggs, turkey giblet gravy.
+minute rice, frogleg meat, scrambled eggs, brown gravy.
+minute rice, frogleg meat, scrambled eggs, country gravy.
+minute rice, frogleg meat, scrambled eggs, sausage gravy.
+minute rice, frogleg meat, scrambled eggs, turkey giblet gravy.
+minute rice, frogleg meat, over easy eggs, brown gravy.
+minute rice, frogleg meat, over easy eggs, country gravy.
+minute rice, frogleg meat, over easy eggs, sausage gravy.
+minute rice, frogleg meat, over easy eggs, turkey giblet gravy.
+minute rice, frogleg meat, over hard eggs, brown gravy.
+minute rice, frogleg meat, over hard eggs, country gravy.
+minute rice, frogleg meat, over hard eggs, sausage gravy.
+minute rice, frogleg meat, over hard eggs, turkey giblet gravy.
+minute rice, frogleg meat, poached eggs, brown gravy.
+minute rice, frogleg meat, poached eggs, country gravy.
+minute rice, frogleg meat, poached eggs, sausage gravy.
+minute rice, frogleg meat, poached eggs, turkey giblet gravy.
+minute rice, frogleg meat, hard-boiled eggs, brown gravy.
+minute rice, frogleg meat, hard-boiled eggs, country gravy.
+minute rice, frogleg meat, hard-boiled eggs, sausage gravy.
+minute rice, frogleg meat, hard-boiled eggs, turkey giblet gravy.
+minute rice, frogleg meat, raw eggs, brown gravy.
+minute rice, frogleg meat, raw eggs, country gravy.
+minute rice, frogleg meat, raw eggs, sausage gravy.
+minute rice, frogleg meat, raw eggs, turkey giblet gravy.
+minute rice, frogleg meat, deep-fried eggs, brown gravy.
+minute rice, frogleg meat, deep-fried eggs, country gravy.
+minute rice, frogleg meat, deep-fried eggs, sausage gravy.
+minute rice, frogleg meat, deep-fried eggs, turkey giblet gravy.
+sticky rice, venison meat, scrambled eggs, brown gravy.
+sticky rice, venison meat, scrambled eggs, country gravy.
+sticky rice, venison meat, scrambled eggs, sausage gravy.
+sticky rice, venison meat, scrambled eggs, turkey giblet gravy.
+sticky rice, venison meat, over easy eggs, brown gravy.
+sticky rice, venison meat, over easy eggs, country gravy.
+sticky rice, venison meat, over easy eggs, sausage gravy.
+sticky rice, venison meat, over easy eggs, turkey giblet gravy.
+sticky rice, venison meat, over hard eggs, brown gravy.
+sticky rice, venison meat, over hard eggs, country gravy.
+sticky rice, venison meat, over hard eggs, sausage gravy.
+sticky rice, venison meat, over hard eggs, turkey giblet gravy.
+sticky rice, venison meat, poached eggs, brown gravy.
+sticky rice, venison meat, poached eggs, country gravy.
+sticky rice, venison meat, poached eggs, sausage gravy.
+sticky rice, venison meat, poached eggs, turkey giblet gravy.
+sticky rice, venison meat, hard-boiled eggs, brown gravy.
+sticky rice, venison meat, hard-boiled eggs, country gravy.
+sticky rice, venison meat, hard-boiled eggs, sausage gravy.
+sticky rice, venison meat, hard-boiled eggs, turkey giblet gravy.
+sticky rice, venison meat, raw eggs, brown gravy.
+sticky rice, venison meat, raw eggs, country gravy.
+sticky rice, venison meat, raw eggs, sausage gravy.
+sticky rice, venison meat, raw eggs, turkey giblet gravy.
+sticky rice, venison meat, deep-fried eggs, brown gravy.
+sticky rice, venison meat, deep-fried eggs, country gravy.
+sticky rice, venison meat, deep-fried eggs, sausage gravy.
+sticky rice, venison meat, deep-fried eggs, turkey giblet gravy.
+sticky rice, veal meat, scrambled eggs, brown gravy.
+sticky rice, veal meat, scrambled eggs, country gravy.
+sticky rice, veal meat, scrambled eggs, sausage gravy.
+sticky rice, veal meat, scrambled eggs, turkey giblet gravy.
+sticky rice, veal meat, over easy eggs, brown gravy.
+sticky rice, veal meat, over easy eggs, country gravy.
+sticky rice, veal meat, over easy eggs, sausage gravy.
+sticky rice, veal meat, over easy eggs, turkey giblet gravy.
+sticky rice, veal meat, over hard eggs, brown gravy.
+sticky rice, veal meat, over hard eggs, country gravy.
+sticky rice, veal meat, over hard eggs, sausage gravy.
+sticky rice, veal meat, over hard eggs, turkey giblet gravy.
+sticky rice, veal meat, poached eggs, brown gravy.
+sticky rice, veal meat, poached eggs, country gravy.
+sticky rice, veal meat, poached eggs, sausage gravy.
+sticky rice, veal meat, poached eggs, turkey giblet gravy.
+sticky rice, veal meat, hard-boiled eggs, brown gravy.
+sticky rice, veal meat, hard-boiled eggs, country gravy.
+sticky rice, veal meat, hard-boiled eggs, sausage gravy.
+sticky rice, veal meat, hard-boiled eggs, turkey giblet gravy.
+sticky rice, veal meat, raw eggs, brown gravy.
+sticky rice, veal meat, raw eggs, country gravy.
+sticky rice, veal meat, raw eggs, sausage gravy.
+sticky rice, veal meat, raw eggs, turkey giblet gravy.
+sticky rice, veal meat, deep-fried eggs, brown gravy.
+sticky rice, veal meat, deep-fried eggs, country gravy.
+sticky rice, veal meat, deep-fried eggs, sausage gravy.
+sticky rice, veal meat, deep-fried eggs, turkey giblet gravy.
+sticky rice, elk meat, scrambled eggs, brown gravy.
+sticky rice, elk meat, scrambled eggs, country gravy.
+sticky rice, elk meat, scrambled eggs, sausage gravy.
+sticky rice, elk meat, scrambled eggs, turkey giblet gravy.
+sticky rice, elk meat, over easy eggs, brown gravy.
+sticky rice, elk meat, over easy eggs, country gravy.
+sticky rice, elk meat, over easy eggs, sausage gravy.
+sticky rice, elk meat, over easy eggs, turkey giblet gravy.
+sticky rice, elk meat, over hard eggs, brown gravy.
+sticky rice, elk meat, over hard eggs, country gravy.
+sticky rice, elk meat, over hard eggs, sausage gravy.
+sticky rice, elk meat, over hard eggs, turkey giblet gravy.
+sticky rice, elk meat, poached eggs, brown gravy.
+sticky rice, elk meat, poached eggs, country gravy.
+sticky rice, elk meat, poached eggs, sausage gravy.
+sticky rice, elk meat, poached eggs, turkey giblet gravy.
+sticky rice, elk meat, hard-boiled eggs, brown gravy.
+sticky rice, elk meat, hard-boiled eggs, country gravy.
+sticky rice, elk meat, hard-boiled eggs, sausage gravy.
+sticky rice, elk meat, hard-boiled eggs, turkey giblet gravy.
+sticky rice, elk meat, raw eggs, brown gravy.
+sticky rice, elk meat, raw eggs, country gravy.
+sticky rice, elk meat, raw eggs, sausage gravy.
+sticky rice, elk meat, raw eggs, turkey giblet gravy.
+sticky rice, elk meat, deep-fried eggs, brown gravy.
+sticky rice, elk meat, deep-fried eggs, country gravy.
+sticky rice, elk meat, deep-fried eggs, sausage gravy.
+sticky rice, elk meat, deep-fried eggs, turkey giblet gravy.
+sticky rice, buffalo meat, scrambled eggs, brown gravy.
+sticky rice, buffalo meat, scrambled eggs, country gravy.
+sticky rice, buffalo meat, scrambled eggs, sausage gravy.
+sticky rice, buffalo meat, scrambled eggs, turkey giblet gravy.
+sticky rice, buffalo meat, over easy eggs, brown gravy.
+sticky rice, buffalo meat, over easy eggs, country gravy.
+sticky rice, buffalo meat, over easy eggs, sausage gravy.
+sticky rice, buffalo meat, over easy eggs, turkey giblet gravy.
+sticky rice, buffalo meat, over hard eggs, brown gravy.
+sticky rice, buffalo meat, over hard eggs, country gravy.
+sticky rice, buffalo meat, over hard eggs, sausage gravy.
+sticky rice, buffalo meat, over hard eggs, turkey giblet gravy.
+sticky rice, buffalo meat, poached eggs, brown gravy.
+sticky rice, buffalo meat, poached eggs, country gravy.
+sticky rice, buffalo meat, poached eggs, sausage gravy.
+sticky rice, buffalo meat, poached eggs, turkey giblet gravy.
+sticky rice, buffalo meat, hard-boiled eggs, brown gravy.
+sticky rice, buffalo meat, hard-boiled eggs, country gravy.
+sticky rice, buffalo meat, hard-boiled eggs, sausage gravy.
+sticky rice, buffalo meat, hard-boiled eggs, turkey giblet gravy.
+sticky rice, buffalo meat, raw eggs, brown gravy.
+sticky rice, buffalo meat, raw eggs, country gravy.
+sticky rice, buffalo meat, raw eggs, sausage gravy.
+sticky rice, buffalo meat, raw eggs, turkey giblet gravy.
+sticky rice, buffalo meat, deep-fried eggs, brown gravy.
+sticky rice, buffalo meat, deep-fried eggs, country gravy.
+sticky rice, buffalo meat, deep-fried eggs, sausage gravy.
+sticky rice, buffalo meat, deep-fried eggs, turkey giblet gravy.
+sticky rice, frogleg meat, scrambled eggs, brown gravy.
+sticky rice, frogleg meat, scrambled eggs, country gravy.
+sticky rice, frogleg meat, scrambled eggs, sausage gravy.
+sticky rice, frogleg meat, scrambled eggs, turkey giblet gravy.
+sticky rice, frogleg meat, over easy eggs, brown gravy.
+sticky rice, frogleg meat, over easy eggs, country gravy.
+sticky rice, frogleg meat, over easy eggs, sausage gravy.
+sticky rice, frogleg meat, over easy eggs, turkey giblet gravy.
+sticky rice, frogleg meat, over hard eggs, brown gravy.
+sticky rice, frogleg meat, over hard eggs, country gravy.
+sticky rice, frogleg meat, over hard eggs, sausage gravy.
+sticky rice, frogleg meat, over hard eggs, turkey giblet gravy.
+sticky rice, frogleg meat, poached eggs, brown gravy.
+sticky rice, frogleg meat, poached eggs, country gravy.
+sticky rice, frogleg meat, poached eggs, sausage gravy.
+sticky rice, frogleg meat, poached eggs, turkey giblet gravy.
+sticky rice, frogleg meat, hard-boiled eggs, brown gravy.
+sticky rice, frogleg meat, hard-boiled eggs, country gravy.
+sticky rice, frogleg meat, hard-boiled eggs, sausage gravy.
+sticky rice, frogleg meat, hard-boiled eggs, turkey giblet gravy.
+sticky rice, frogleg meat, raw eggs, brown gravy.
+sticky rice, frogleg meat, raw eggs, country gravy.
+sticky rice, frogleg meat, raw eggs, sausage gravy.
+sticky rice, frogleg meat, raw eggs, turkey giblet gravy.
+sticky rice, frogleg meat, deep-fried eggs, brown gravy.
+sticky rice, frogleg meat, deep-fried eggs, country gravy.
+sticky rice, frogleg meat, deep-fried eggs, sausage gravy.
+sticky rice, frogleg meat, deep-fried eggs, turkey giblet gravy.
+basmati rice, venison meat, scrambled eggs, brown gravy.
+basmati rice, venison meat, scrambled eggs, country gravy.
+basmati rice, venison meat, scrambled eggs, sausage gravy.
+basmati rice, venison meat, scrambled eggs, turkey giblet gravy.
+basmati rice, venison meat, over easy eggs, brown gravy.
+basmati rice, venison meat, over easy eggs, country gravy.
+basmati rice, venison meat, over easy eggs, sausage gravy.
+basmati rice, venison meat, over easy eggs, turkey giblet gravy.
+basmati rice, venison meat, over hard eggs, brown gravy.
+basmati rice, venison meat, over hard eggs, country gravy.
+basmati rice, venison meat, over hard eggs, sausage gravy.
+basmati rice, venison meat, over hard eggs, turkey giblet gravy.
+basmati rice, venison meat, poached eggs, brown gravy.
+basmati rice, venison meat, poached eggs, country gravy.
+basmati rice, venison meat, poached eggs, sausage gravy.
+basmati rice, venison meat, poached eggs, turkey giblet gravy.
+basmati rice, venison meat, hard-boiled eggs, brown gravy.
+basmati rice, venison meat, hard-boiled eggs, country gravy.
+basmati rice, venison meat, hard-boiled eggs, sausage gravy.
+basmati rice, venison meat, hard-boiled eggs, turkey giblet gravy.
+basmati rice, venison meat, raw eggs, brown gravy.
+basmati rice, venison meat, raw eggs, country gravy.
+basmati rice, venison meat, raw eggs, sausage gravy.
+basmati rice, venison meat, raw eggs, turkey giblet gravy.
+basmati rice, venison meat, deep-fried eggs, brown gravy.
+basmati rice, venison meat, deep-fried eggs, country gravy.
+basmati rice, venison meat, deep-fried eggs, sausage gravy.
+basmati rice, venison meat, deep-fried eggs, turkey giblet gravy.
+basmati rice, veal meat, scrambled eggs, brown gravy.
+basmati rice, veal meat, scrambled eggs, country gravy.
+basmati rice, veal meat, scrambled eggs, sausage gravy.
+basmati rice, veal meat, scrambled eggs, turkey giblet gravy.
+basmati rice, veal meat, over easy eggs, brown gravy.
+basmati rice, veal meat, over easy eggs, country gravy.
+basmati rice, veal meat, over easy eggs, sausage gravy.
+basmati rice, veal meat, over easy eggs, turkey giblet gravy.
+basmati rice, veal meat, over hard eggs, brown gravy.
+basmati rice, veal meat, over hard eggs, country gravy.
+basmati rice, veal meat, over hard eggs, sausage gravy.
+basmati rice, veal meat, over hard eggs, turkey giblet gravy.
+basmati rice, veal meat, poached eggs, brown gravy.
+basmati rice, veal meat, poached eggs, country gravy.
+basmati rice, veal meat, poached eggs, sausage gravy.
+basmati rice, veal meat, poached eggs, turkey giblet gravy.
+basmati rice, veal meat, hard-boiled eggs, brown gravy.
+basmati rice, veal meat, hard-boiled eggs, country gravy.
+basmati rice, veal meat, hard-boiled eggs, sausage gravy.
+basmati rice, veal meat, hard-boiled eggs, turkey giblet gravy.
+basmati rice, veal meat, raw eggs, brown gravy.
+basmati rice, veal meat, raw eggs, country gravy.
+basmati rice, veal meat, raw eggs, sausage gravy.
+basmati rice, veal meat, raw eggs, turkey giblet gravy.
+basmati rice, veal meat, deep-fried eggs, brown gravy.
+basmati rice, veal meat, deep-fried eggs, country gravy.
+basmati rice, veal meat, deep-fried eggs, sausage gravy.
+basmati rice, veal meat, deep-fried eggs, turkey giblet gravy.
+basmati rice, elk meat, scrambled eggs, brown gravy.
+basmati rice, elk meat, scrambled eggs, country gravy.
+basmati rice, elk meat, scrambled eggs, sausage gravy.
+basmati rice, elk meat, scrambled eggs, turkey giblet gravy.
+basmati rice, elk meat, over easy eggs, brown gravy.
+basmati rice, elk meat, over easy eggs, country gravy.
+basmati rice, elk meat, over easy eggs, sausage gravy.
+basmati rice, elk meat, over easy eggs, turkey giblet gravy.
+basmati rice, elk meat, over hard eggs, brown gravy.
+basmati rice, elk meat, over hard eggs, country gravy.
+basmati rice, elk meat, over hard eggs, sausage gravy.
+basmati rice, elk meat, over hard eggs, turkey giblet gravy.
+basmati rice, elk meat, poached eggs, brown gravy.
+basmati rice, elk meat, poached eggs, country gravy.
+basmati rice, elk meat, poached eggs, sausage gravy.
+basmati rice, elk meat, poached eggs, turkey giblet gravy.
+basmati rice, elk meat, hard-boiled eggs, brown gravy.
+basmati rice, elk meat, hard-boiled eggs, country gravy.
+basmati rice, elk meat, hard-boiled eggs, sausage gravy.
+basmati rice, elk meat, hard-boiled eggs, turkey giblet gravy.
+basmati rice, elk meat, raw eggs, brown gravy.
+basmati rice, elk meat, raw eggs, country gravy.
+basmati rice, elk meat, raw eggs, sausage gravy.
+basmati rice, elk meat, raw eggs, turkey giblet gravy.
+basmati rice, elk meat, deep-fried eggs, brown gravy.
+basmati rice, elk meat, deep-fried eggs, country gravy.
+basmati rice, elk meat, deep-fried eggs, sausage gravy.
+basmati rice, elk meat, deep-fried eggs, turkey giblet gravy.
+basmati rice, buffalo meat, scrambled eggs, brown gravy.
+basmati rice, buffalo meat, scrambled eggs, country gravy.
+basmati rice, buffalo meat, scrambled eggs, sausage gravy.
+basmati rice, buffalo meat, scrambled eggs, turkey giblet gravy.
+basmati rice, buffalo meat, over easy eggs, brown gravy.
+basmati rice, buffalo meat, over easy eggs, country gravy.
+basmati rice, buffalo meat, over easy eggs, sausage gravy.
+basmati rice, buffalo meat, over easy eggs, turkey giblet gravy.
+basmati rice, buffalo meat, over hard eggs, brown gravy.
+basmati rice, buffalo meat, over hard eggs, country gravy.
+basmati rice, buffalo meat, over hard eggs, sausage gravy.
+basmati rice, buffalo meat, over hard eggs, turkey giblet gravy.
+basmati rice, buffalo meat, poached eggs, brown gravy.
+basmati rice, buffalo meat, poached eggs, country gravy.
+basmati rice, buffalo meat, poached eggs, sausage gravy.
+basmati rice, buffalo meat, poached eggs, turkey giblet gravy.
+basmati rice, buffalo meat, hard-boiled eggs, brown gravy.
+basmati rice, buffalo meat, hard-boiled eggs, country gravy.
+basmati rice, buffalo meat, hard-boiled eggs, sausage gravy.
+basmati rice, buffalo meat, hard-boiled eggs, turkey giblet gravy.
+basmati rice, buffalo meat, raw eggs, brown gravy.
+basmati rice, buffalo meat, raw eggs, country gravy.
+basmati rice, buffalo meat, raw eggs, sausage gravy.
+basmati rice, buffalo meat, raw eggs, turkey giblet gravy.
+basmati rice, buffalo meat, deep-fried eggs, brown gravy.
+basmati rice, buffalo meat, deep-fried eggs, country gravy.
+basmati rice, buffalo meat, deep-fried eggs, sausage gravy.
+basmati rice, buffalo meat, deep-fried eggs, turkey giblet gravy.
+basmati rice, frogleg meat, scrambled eggs, brown gravy.
+basmati rice, frogleg meat, scrambled eggs, country gravy.
+basmati rice, frogleg meat, scrambled eggs, sausage gravy.
+basmati rice, frogleg meat, scrambled eggs, turkey giblet gravy.
+basmati rice, frogleg meat, over easy eggs, brown gravy.
+basmati rice, frogleg meat, over easy eggs, country gravy.
+basmati rice, frogleg meat, over easy eggs, sausage gravy.
+basmati rice, frogleg meat, over easy eggs, turkey giblet gravy.
+basmati rice, frogleg meat, over hard eggs, brown gravy.
+basmati rice, frogleg meat, over hard eggs, country gravy.
+basmati rice, frogleg meat, over hard eggs, sausage gravy.
+basmati rice, frogleg meat, over hard eggs, turkey giblet gravy.
+basmati rice, frogleg meat, poached eggs, brown gravy.
+basmati rice, frogleg meat, poached eggs, country gravy.
+basmati rice, frogleg meat, poached eggs, sausage gravy.
+basmati rice, frogleg meat, poached eggs, turkey giblet gravy.
+basmati rice, frogleg meat, hard-boiled eggs, brown gravy.
+basmati rice, frogleg meat, hard-boiled eggs, country gravy.
+basmati rice, frogleg meat, hard-boiled eggs, sausage gravy.
+basmati rice, frogleg meat, hard-boiled eggs, turkey giblet gravy.
+basmati rice, frogleg meat, raw eggs, brown gravy.
+basmati rice, frogleg meat, raw eggs, country gravy.
+basmati rice, frogleg meat, raw eggs, sausage gravy.
+basmati rice, frogleg meat, raw eggs, turkey giblet gravy.
+basmati rice, frogleg meat, deep-fried eggs, brown gravy.
+basmati rice, frogleg meat, deep-fried eggs, country gravy.
+basmati rice, frogleg meat, deep-fried eggs, sausage gravy.
+basmati rice, frogleg meat, deep-fried eggs, turkey giblet gravy.
+=======================
+840 loco mocos! Collect them all.

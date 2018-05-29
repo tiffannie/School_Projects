@@ -1,0 +1,4 @@
+acbabc
+s0, a : s0, b : s1, c : s2
+s1, a : s0, b : s2, c : s2
+s2, a : s0, b : s2, c : s1

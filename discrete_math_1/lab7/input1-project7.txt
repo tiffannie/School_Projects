@@ -1,0 +1,3 @@
+QS, JS, KS, 10S
+KS, 3C, 3S, QC
+6D, 10D, AD, 7D

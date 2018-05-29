@@ -1,0 +1,50 @@
+brown rice, hamburger meat, scrambled eggs, brown gravy.
+brown rice, hamburger meat, poached eggs, brown gravy.
+brown rice, hamburger meat, fried eggs, brown gravy.
+brown rice, spam meat, scrambled eggs, brown gravy.
+brown rice, spam meat, poached eggs, brown gravy.
+brown rice, spam meat, fried eggs, brown gravy.
+brown rice, mahi meat, scrambled eggs, brown gravy.
+brown rice, mahi meat, poached eggs, brown gravy.
+brown rice, mahi meat, fried eggs, brown gravy.
+brown rice, salmon meat, scrambled eggs, brown gravy.
+brown rice, salmon meat, poached eggs, brown gravy.
+brown rice, salmon meat, fried eggs, brown gravy.
+brown rice, hotdog meat, scrambled eggs, brown gravy.
+brown rice, hotdog meat, poached eggs, brown gravy.
+brown rice, hotdog meat, fried eggs, brown gravy.
+brown rice, Portuguese sausage meat, scrambled eggs, brown gravy.
+brown rice, Portuguese sausage meat, poached eggs, brown gravy.
+brown rice, Portuguese sausage meat, fried eggs, brown gravy.
+brown rice, bacon meat, scrambled eggs, brown gravy.
+brown rice, bacon meat, poached eggs, brown gravy.
+brown rice, bacon meat, fried eggs, brown gravy.
+brown rice, turkey meat, scrambled eggs, brown gravy.
+brown rice, turkey meat, poached eggs, brown gravy.
+brown rice, turkey meat, fried eggs, brown gravy.
+white rice, hamburger meat, scrambled eggs, brown gravy.
+white rice, hamburger meat, poached eggs, brown gravy.
+white rice, hamburger meat, fried eggs, brown gravy.
+white rice, spam meat, scrambled eggs, brown gravy.
+white rice, spam meat, poached eggs, brown gravy.
+white rice, spam meat, fried eggs, brown gravy.
+white rice, mahi meat, scrambled eggs, brown gravy.
+white rice, mahi meat, poached eggs, brown gravy.
+white rice, mahi meat, fried eggs, brown gravy.
+white rice, salmon meat, scrambled eggs, brown gravy.
+white rice, salmon meat, poached eggs, brown gravy.
+white rice, salmon meat, fried eggs, brown gravy.
+white rice, hotdog meat, scrambled eggs, brown gravy.
+white rice, hotdog meat, poached eggs, brown gravy.
+white rice, hotdog meat, fried eggs, brown gravy.
+white rice, Portuguese sausage meat, scrambled eggs, brown gravy.
+white rice, Portuguese sausage meat, poached eggs, brown gravy.
+white rice, Portuguese sausage meat, fried eggs, brown gravy.
+white rice, bacon meat, scrambled eggs, brown gravy.
+white rice, bacon meat, poached eggs, brown gravy.
+white rice, bacon meat, fried eggs, brown gravy.
+white rice, turkey meat, scrambled eggs, brown gravy.
+white rice, turkey meat, poached eggs, brown gravy.
+white rice, turkey meat, fried eggs, brown gravy.
+=======================
+48 loco mocos! Collect them all.

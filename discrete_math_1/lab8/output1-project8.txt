@@ -1,0 +1,6 @@
+Set: {0, 1, 2, 3, 4, 5}
+Relation: {(1, 3), (3, 1), (5, 4), (4, 5)}
+
+Reflexive: No
+Symmetric: Yes
+

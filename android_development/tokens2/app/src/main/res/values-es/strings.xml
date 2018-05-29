@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Deslizo</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="bumbling_oaf">Zoquete Torpe</string>
+    <string name="copy_cat">Copia</string>
+    <string name="winner">¡Ganador!</string>
+    <string name="player">Jugador</string>
+    <string name="won">ganó. </string>
+    <string name="tie">¡Empataron! ¿Quieres Jugar Otra Vez?</string>
+    <string name="play_again">¿Quieres Jugar Otra Vez?</string>
+    <string name="about">Propósito</string>
+    <string name="ok">Okay</string>
+    <string name="about_content">Este juego fue creado por los estudiantes de la Universidad de Brigham Young de Hawaii..</string>
+    <string name="choose_opponent">Elige a tu Oponente </string>
+    <string name="opponent_select">¡Tus Oponentes!</string>
+    <string name="game_over">¡Juego Terminad!</string>
+    <string name="to_play">Para jugar, presiona uno de los botones alrededor del cuadrícula</string>
+    <string name="music">Música</string>
+</resources>

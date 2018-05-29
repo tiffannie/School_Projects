@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="music"
+        android:title="Soundtrack"
+        android:summaryOn="Soundtrack is on"
+        android:summaryOff="Soundtrack is off"
+        android:defaultValue="true" />
+    <ListPreference android:key="speed"
+        android:title="Dancing Speed"
+        android:summary="Select how fast the ducks will dance"
+        android:entries="@array/speed_labels"
+        android:entryValues="@array/speed_numbers"
+        android:defaultValue="10" />
+</PreferenceScreen>

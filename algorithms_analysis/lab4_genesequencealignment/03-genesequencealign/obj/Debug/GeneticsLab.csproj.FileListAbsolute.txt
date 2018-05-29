@@ -1,0 +1,17 @@
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\GeneticsLab.exe
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\GeneticsLab.pdb
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\bin\Debug\GeneticsLab.exe
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\bin\Debug\GeneticsLab.pdb
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\GeneticsLab.MainForm.resources
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\GeneticsLab.Properties.Resources.resources
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vasu Chetty\Documents\School\CS 312 TA Files\Labs\lab4\Project4\Project4\04-genesequencealign\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\obj\Debug\GeneticsLab.exe
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\obj\Debug\GeneticsLab.pdb
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\bin\Debug\GeneticsLab.exe
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\bin\Debug\GeneticsLab.pdb
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\obj\Debug\GeneticsLab.csprojResolveAssemblyReference.cache
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\obj\Debug\GeneticsLab.MainForm.resources
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\obj\Debug\GeneticsLab.Properties.Resources.resources
+C:\Users\Vasu Chetty\Downloads\Project4\03-genesequencealign\obj\Debug\GeneticsLab.csproj.GenerateResource.Cache

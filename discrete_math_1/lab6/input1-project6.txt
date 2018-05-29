@@ -1,0 +1,17 @@
+brown
+white
+***
+hamburger
+spam
+mahi
+salmon
+hotdog
+Portuguese sausage
+bacon
+turkey
+***
+scrambled
+poached
+fried
+***
+brown

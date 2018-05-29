@@ -1,0 +1,8 @@
+A = {xyzzy, plugh, egypt, ritnew}
+B = {zork, frob, borphee, pheebor}
+A intersect B = {}
+A union B = {xyzzy, plugh, egypt, ritnew, zork, frob, borphee, pheebor}
+A - B = {xyzzy, plugh, egypt, ritnew}
+B - A = {zork, frob, borphee, pheebor}
+A x B = {(xyzzy,zork), (xyzzy,frob), (xyzzy,borphee), (xyzzy,pheebor), (plugh,zork), (plugh,frob), (plugh,borphee), (plugh,pheebor), (egypt,zork), (egypt,frob), (egypt,borphee), (egypt,pheebor), (ritnew,zork), (ritnew,frob), (ritnew,borphee), (ritnew,pheebor)}
+B x A = {(zork,xyzzy), (zork,plugh), (zork,egypt), (zork,ritnew), (frob,xyzzy), (frob,plugh), (frob,egypt), (frob,ritnew), (borphee,xyzzy), (borphee,plugh), (borphee,egypt), (borphee,ritnew), (pheebor,xyzzy), (pheebor,plugh), (pheebor,egypt), (pheebor,ritnew)}
